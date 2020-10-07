@@ -1,8 +1,8 @@
-# Domain modelling with Typescript. This talk builds on top of Robert Freire's talk on DDD
+# Domain modelling with Typescript. This talk builds on top of Robert Freire's talk on Domain Driven Design
 
 ## We will contrast DDD in typescript against C#
 
-## This talk stolen from Scott Wlaschin - I translated from F# to Typescript. fsharpforfunandprofit.com/ddd
+## This talk stolen from Scott Wlaschin - I translated it from F# to Typescript. fsharpforfunandprofit.com/ddd
 
 ## Font: FiraCode
 

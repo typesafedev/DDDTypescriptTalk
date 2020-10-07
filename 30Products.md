@@ -14,10 +14,10 @@ ___
 type Person = { name: string }
 
 // Written as
-type birthdayT = [ Person, date ]
+type BirthdayT = [ Person, date ]
 
 // Or
-type birthday = { person: Person, date: date }
+type Birthday = { person: Person, date: date }
 
 const alice = { name: "Alice" };
 const bob = { name: "Bob" };
@@ -27,4 +27,4 @@ const bobBirthday = [bob, new Date(2000, 2, 2)];
 const eveBirthday = [eve, new Date(2000, 3, 3)];
 ```
 
-### Think of this as the set of People multiplied by set of Dates
+### Think of Birthday as a set containing the set of People multiplied by set of Dates
